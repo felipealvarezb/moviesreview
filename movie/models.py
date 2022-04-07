@@ -1,6 +1,5 @@
 from email.mime import image
 from pickle import TRUE
-from turtle import title
 from django.db import models
 
 class Movie(models.Model):
